@@ -12,6 +12,11 @@ export default function ColorPickerGfg() {
             <ColorPicker width={456} height={228}
                 color={color}
                 onChange={setColor} hideHSV dark />
+
+                <p> Develop by Shahriar Mahmud Anik</p>
         </div>
+
+
+
     )
 };
